@@ -1,0 +1,196 @@
+body {
+    background: #e3ccac;
+    color: #ffffff;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+}
+
+.centerBox {
+    background: #eee0cd;
+    width: 500px;
+    height: 500px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;
+    margin-left: -250px;
+}
+
+.gameTable {
+    background: #f6eee2;
+    color: #000000;
+    width: 450px;
+    height: 450px;
+    left: 25px;
+    top: 25px;
+    position: absolute;
+}
+
+#leftTopTile {
+    background: #f6eee2;
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-left: 0;
+    border-top: 0;
+    left: 5px;
+    top: 5px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#leftMidTile {
+    background: #f6eee2;
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-left: 0;
+    border-top: 0;
+    left: 5px;
+    top: 156px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#leftBotTile {
+    background: #f6eee2;
+    width: 150px;
+    height: 140px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-left: 0;
+    border-top: 0;
+    border-bottom: 0;
+    left: 5px;
+    top: 307px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#midBotTile {
+    background: #f6eee2;
+    width: 150px;
+    height: 140px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-left: 0;
+    border-bottom: 0;
+    left: 156px;
+    top: 306px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#rightBotTile {
+    background: #f6eee2;
+    width: 140px;
+    height: 140px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+    left: 307px;
+    top: 306px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#rightMidTile {
+    background: #f6eee2;
+    width: 140px;
+    height: 150px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-bottom: 0;
+    border-right: 0;
+    left: 306px;
+    top: 155px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#rightTopTile {
+    background: #f6eee2;
+    width: 140px;
+    height: 150px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-top: 0;
+    border-bottom: 0;
+    border-right: 0;
+    left: 306px;
+    top: 5px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#centerTile {
+    background: #f6eee2;
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-top: 0;
+    border-left:0;
+    border-right: 0;
+    left: 156;
+    top: 156px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#topMidTile {
+    background: #f6eee2;
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-color: #baad9a;
+    border-width: 1px;
+    border-top: 0;
+    border-left:0;
+    border-right: 0;
+    left: 156;
+    top: 5px;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 130px;
+    font-weight: bold;
+    text-align: center;
+}

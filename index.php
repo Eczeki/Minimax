@@ -6,7 +6,7 @@
     <body>
         <div class = centerBox>
             <div class = gameTable>
-                <div id = "leftTopTile">
+                <div id = leftTopTile>
                     </div>
                 <div id = leftMidTile>
                     </div>
